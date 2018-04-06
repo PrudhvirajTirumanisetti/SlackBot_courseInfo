@@ -21,3 +21,7 @@ Follow the tutorial to obtain SLACK_BOT_TOKEN and BOT_ID then put them in creden
 - python-lambda librarty
 - NLTK library
 - DynamoDB, API Gateway, AWS Lambda
+
+#### Architecture of the system we implemented:
+
+![alt text](https://github.com/PrudhvirajTirumanisetti/SlackBot_courseInfo/blob/master/Architecture.png)
