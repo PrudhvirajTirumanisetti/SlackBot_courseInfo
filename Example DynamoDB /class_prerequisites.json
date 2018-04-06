@@ -1,0 +1,8 @@
+{
+  "data": {
+    "table": "ClassTable",
+    "field": "prerequisites",
+    "course": "Course Number",
+    "answer": "The prerequisites for %s are %s"
+  }
+}
